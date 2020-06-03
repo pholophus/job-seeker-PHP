@@ -1,0 +1,103 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+    
+}
+
+.logo{
+    float: left;
+    margin-top: 160px;
+    margin-left: 200px;
+}
+
+#inner {
+    overflow: hidden;
+    width: 2000px;
+  }
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 235px;
+    margin-left: 80px;
+    
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.button
+{
+    margin-top: 30px;
+    margin-left: 420px;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn-one
+{
+    background-color: darkorange;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.btn-two
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+
+.btn-two:hover
+{
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+    
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
